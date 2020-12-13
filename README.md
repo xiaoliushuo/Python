@@ -10,9 +10,9 @@
 
 <p align="center">
   <a href="#微信"><img src="https://img.shields.io/badge/weChat-微信群-blue.svg" alt="微信群"></a>
-  <a href="#公众号"><img src="https://img.shields.io/badge/%E5%85%AC%E4%BC%97%E5%8F%B7-三太子敖丙-lightgrey.svg" alt="公众号"></a>
+  <a href="#公众号"><img src="https://img.shields.io/badge/公众号-小刘说编程-lightgrey.svg" alt="公众号"></a>
   <a href="https://space.bilibili.com/130763764"><img src="https://img.shields.io/badge/bilibili-哔哩哔哩-critical" alt="投稿"></a>
-  <a href="https://www.toutiao.com/c/user/3270187212/#mid=1557137040287746"><img src="https://img.shields.io/badge/toutiao-头条-9cf" alt="投稿"></a>
+  <a href="https://www.toutiao.com/c/user/token/MS4wLjABAAAARPY4jyDKWojKoM4uKlyPKcGXnxmi3cLStvj17WNkvzCMnQx-vgwcPbzii3-YKs5x/"><img src="https://img.shields.io/badge/toutiao-头条-9cf" alt="投稿"></a>
   <a href="https://juejin.im/user/59b416065188257e671b670a"><img src="https://img.shields.io/badge/juejin-掘金-blue.svg" alt="公众号"></a>
   <a href="https://www.zhihu.com/people/aobingJava/activities"><img src="https://img.shields.io/badge/zhihu-知乎-informational" alt="投稿"></a>
   <a href="https://me.csdn.net/qq_35190492"><img src="https://img.shields.io/badge/csdn-CSDN-red.svg" alt="投稿"></a>
