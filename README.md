@@ -5,7 +5,6 @@
 
 
 
- ![fasdf](https://i1.100024.xyz/i/2020/12/13/p7zgvu.png
-)
+![公众号二维码.jpg](https://i.loli.net/2020/12/13/ByVRE2zI4tObJvK.jpg)
 
 
