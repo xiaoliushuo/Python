@@ -5,6 +5,6 @@
 
 
 
-![公众号二维码.jpg](https://i.loli.net/2020/12/13/ByVRE2zI4tObJvK.jpg)
+![公众号二维码美化.png](https://i.loli.net/2020/12/13/FDwWzdONoGhE26i.png)
 
 
