@@ -1,11 +1,8 @@
 # Python
-【Python面试+Python学习指南】 涵盖大部分程序员必会Python核心知识，助力大家找到好工作
 
-大家可以关注[【公众号：小刘说python】](#公众号)或者加我[【微信】](#微信)交流(别忘记Star哟)，文章和资料会在公众号首发
-
-
+>大家可以关注[【公众号：小刘说python】](#公众号)或者加我[【微信】](#微信)交流(别忘记Star哟)，文章和面试资料会在**公众号首发**
 <a name="微信"></a>  <a name="公众号"></a>
-![公众号二维码美化.png](https://i.loli.net/2020/12/13/B6gbXYerAJ2P3hw.png)
+>![公众号二维码美化.png](https://i.loli.net/2020/12/13/B6gbXYerAJ2P3hw.png)
 
 
 <p align="center">
